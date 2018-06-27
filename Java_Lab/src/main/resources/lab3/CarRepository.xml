@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CarRepository>
+    <Car id="1">
+        <Type>Москвич</Type>
+        <Color>Вкрапинку</Color>
+        <Number>о315го</Number>
+        <DateOfRelease>2016-01-01</DateOfRelease>
+    </Car>
+    <Car id="2">
+        <Type>Камаз</Type>
+        <Color>Розовый</Color>
+        <Number>о777ёё</Number>
+        <DateOfRelease>2018-01-01</DateOfRelease>
+    </Car>
+</CarRepository>

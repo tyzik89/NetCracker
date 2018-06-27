@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PersonRepository>
+    <Person id="1">
+        <Lastname>Petrov</Lastname>
+        <Fastname>Petr</Fastname>
+        <DateOfBirthday>1976-12-10</DateOfBirthday>
+    </Person>
+    <Person id="2">
+        <Lastname>Sidorov</Lastname>
+        <Fastname>Sidr</Fastname>
+        <DateOfBirthday>2005-05-15</DateOfBirthday>
+    </Person>
+    <Person id="3">
+        <Lastname>Balalaikin</Lastname>
+        <Fastname>Vova</Fastname>
+        <DateOfBirthday>1990-05-15</DateOfBirthday>
+    </Person>
+</PersonRepository>
